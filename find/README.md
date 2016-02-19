@@ -17,6 +17,8 @@ Several useful open data repositories for the US, Connecticut, and the Hartford 
 
 - Connecticut Data Collaborative (http://ctdata.org), a public-private partnership, offers a data portal for federal, state, local, and private sources on the health, well-being, and the economy of the state, and also provides data visualization tools on its web platform.
 
+- DataHaven (http://ctdatahaven.org/) is a non-profit organization that collects, shares, and interprets information about Connecticut neighborhoods, including through its Community Wellbeing Survey. Neighborhood profiles for Hartford and West Hartford, and town profiles for the rest of the state, are posted at a Communities page (http://ctdatahaven.org/communities) and on a Data Resources page in multiple file formats.
+
 - Hartford Data (http://data.hartford.gov) from the City of Hartford offers data from several municipal agencies, and also provides data visualization tools through its Socrata web platform.
 
 Suggest additional listings. .  .
